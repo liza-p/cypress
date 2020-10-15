@@ -1,3 +1,0 @@
-it('visits todoMVC app', () => {
-  
-});
